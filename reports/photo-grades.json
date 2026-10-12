@@ -1,0 +1,61 @@
+{
+  "checker": "Luna",
+  "model": "Luna",
+  "model_id": "gpt-5.6-luna",
+  "question": "does this photos color grading look like it was done by a world class architetural digest magazine editor? on a scale of 1 - 100, how confident are you that htis is the case?",
+  "threshold": 93,
+  "source_manifest": "/home/ubuntu/dev/money-maker/clients/keen-decorative-concrete/projects/driveway-katana-ad-idea-1-20261012/edit/grades/katana-v3-manifest.json",
+  "overall_verdict": "PASS_ALL_FIDELITY_GATES",
+  "photos": [
+    {
+      "index": 1,
+      "original_path": "/home/ubuntu/dev/money-maker/clients/keen-decorative-concrete/media/scraped-social/posts/C2G8KlQspse/1.jpg",
+      "graded_path": "/home/ubuntu/dev/money-maker/clients/keen-decorative-concrete/projects/driveway-katana-ad-idea-1-20261012/grades/shot-1-v3.png",
+      "score": 94,
+      "verdict": "PASS",
+      "feedback": "Clean, restrained neutral treatment with controlled warm brick and believable fence/grass color. Highlights are held and the paver texture remains legible. The ordinary driveway framing and dry lawn are source-composition limitations, not grading defects.",
+      "fidelity_verdict": "PASS_COLOR_ONLY",
+      "fidelity_feedback": "Garage, fence, paver layout, borders, concrete apron, grass edge, and material texture align with the original; no invented or regenerated detail observed."
+    },
+    {
+      "index": 2,
+      "original_path": "/home/ubuntu/dev/money-maker/clients/keen-decorative-concrete/media/scraped-social/posts/B-gjMlIhE9R/1.jpg",
+      "graded_path": "/home/ubuntu/dev/money-maker/clients/keen-decorative-concrete/projects/driveway-katana-ad-idea-1-20261012/grades/shot-2-v3.png",
+      "score": 94,
+      "verdict": "PASS",
+      "feedback": "Subtle neutralization and gentle contrast give the stamped walkway a polished editorial finish without a crunchy HDR look. The hose, soil patch, pool, shed, grass, and compass remain naturally integrated. The busy residential scene is a source limitation.",
+      "fidelity_verdict": "PASS_COLOR_ONLY",
+      "fidelity_feedback": "Walkway curves, compass inlay geometry and texture, fence, pool, shed, hose, soil patch, and concrete edge transitions align with the original; no synthetic texture drift observed."
+    },
+    {
+      "index": 3,
+      "original_path": "/home/ubuntu/dev/money-maker/clients/keen-decorative-concrete/media/scraped-social/posts/C6naasRMZC-/1.jpg",
+      "graded_path": "/home/ubuntu/dev/money-maker/clients/keen-decorative-concrete/projects/driveway-katana-ad-idea-1-20261012/grades/shot-3-v3.png",
+      "score": 93,
+      "verdict": "PASS",
+      "feedback": "The deeper neutral treatment controls the bright sky and gives the dark decorative surface useful separation while retaining believable brick, lawn, stone, and planting color. The wide-angle residential composition and existing dark slab are source limitations.",
+      "fidelity_verdict": "PASS_COLOR_ONLY",
+      "fidelity_feedback": "House, roof, patio outline, compass, landscaping, stones, lawn, and stamped surface texture align with the original; no geometry or material replacement observed."
+    },
+    {
+      "index": 4,
+      "original_path": "/home/ubuntu/dev/money-maker/clients/keen-decorative-concrete/media/scraped-social/posts/B3qlTbhhPBQ/1.jpg",
+      "graded_path": "/home/ubuntu/dev/money-maker/clients/keen-decorative-concrete/projects/driveway-katana-ad-idea-1-20261012/grades/shot-4-v3.png",
+      "score": 94,
+      "verdict": "PASS",
+      "feedback": "Controlled contrast and slightly calmer color improve the pool-deck read while retaining warm stamped concrete and natural foliage. The pre-existing clutter, exposed utility lines, and harsh sun remain source-composition conditions rather than grading failures.",
+      "fidelity_verdict": "PASS_COLOR_ONLY",
+      "fidelity_feedback": "Pool shape, deck edge, stamped texture, palm trunks, fence, birdhouse, utility lines, and surrounding objects align with the original; no regenerated details observed."
+    },
+    {
+      "index": 5,
+      "original_path": "/home/ubuntu/dev/money-maker/clients/keen-decorative-concrete/media/scraped-social/posts/B77eXSjBeSR/2.jpg",
+      "graded_path": "/home/ubuntu/dev/money-maker/clients/keen-decorative-concrete/projects/driveway-katana-ad-idea-1-20261012/grades/shot-5-v3.png",
+      "score": 95,
+      "verdict": "PASS",
+      "feedback": "Strongest v3 finish: warm sun is retained but highlights are more controlled, wood and brick separate cleanly, and the stamped patio reads rich without oversaturation. The hard split between shade and sun is inherent to the source and remains believable.",
+      "fidelity_verdict": "PASS_COLOR_ONLY",
+      "fidelity_feedback": "Pergola beams/posts, brick walls, doors, solar panels, patio joints and stamped texture, shadows, and framing align with the original; no material or geometry drift observed."
+    }
+  ]
+}

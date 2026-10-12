@@ -1,0 +1,39 @@
+{
+  "tool": "Official Higgsfield NEW Katana",
+  "execution": "Authenticated official MCP; supplied-media creative-editing route; actual Katana hosted sandbox",
+  "editing_method": "Katana documented deterministic ffmpeg workflow: original-pixel grades, full-photo gentle pushes, cross-dissolves, separate typography/logo, mixed recorded voice and instrumental music. No replacement project imagery.",
+  "workflow_evidence": "get_preset_instructions /katana, get_workflow_instructions katana; sandbox_exec grades, representative, fullv1 and caption-correctedv2; all outputs HTTP200 then media_confirm.",
+  "photos": "5 actual Keen projects; per-photo Luna scores94,94,93,94,95; original+grade evidence linked separately",
+  "version": "v2",
+  "changes_from_v1": "Half-open caption timing removes one-frame cue overlaps; final CTA held to end. Original picture sequence and audio recording choices preserved.",
+  "output": [
+    {
+      "file": "/home/ubuntu/dev/money-maker/clients/keen-decorative-concrete/projects/driveway-katana-ad-idea-1-20261012/export/keen-katana-master-v2.mp4",
+      "media_id": "159a70e8-58b7-4daf-8588-0b2cbc95904c",
+      "higgsfield_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3IPl4a9NXS7mtXFYVtxGrG8aOwD/159a70e8-58b7-4daf-8588-0b2cbc95904c.mp4",
+      "sha256": "22c72415ae9794d66076e5467f6eb8007e666078f50fa68d37123416e9ffa8a4",
+      "bytes": 29607774
+    },
+    {
+      "file": "/home/ubuntu/dev/money-maker/clients/keen-decorative-concrete/projects/driveway-katana-ad-idea-1-20261012/export/keen-katana-preview-v2.mp4",
+      "media_id": "d80a5778-d281-425b-9a7e-03ab73a633b9",
+      "higgsfield_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3IPl4a9NXS7mtXFYVtxGrG8aOwD/d80a5778-d281-425b-9a7e-03ab73a633b9.mp4",
+      "sha256": "a820af262b052af0d563777548b00ac4c83b9a0dac3ca14b68500d2c6b1fa52e",
+      "bytes": 3865800
+    },
+    {
+      "file": "/home/ubuntu/dev/money-maker/clients/keen-decorative-concrete/projects/driveway-katana-ad-idea-1-20261012/export/keen-katana-qc-v2.zip",
+      "media_id": "dd314f8a-a592-41c6-b752-dc8d8368fa54",
+      "higgsfield_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3IPl4a9NXS7mtXFYVtxGrG8aOwD/dd314f8a-a592-41c6-b752-dc8d8368fa54.zip",
+      "sha256": "12819a3d7251ced3e4dfaa985fb1b738b7359ea4c66079dba1380ec9d3ac7fea",
+      "bytes": 3721604
+    }
+  ],
+  "geography": "Corpus Christi, Texas: client record and source captions verify; Connecticut was unsupported. Exact hook/CTA otherwise unchanged.",
+  "publication": "Review page only; no Meta launch or SMS.",
+  "katana_result": {
+    "media_id": "159a70e8-58b7-4daf-8588-0b2cbc95904c",
+    "video_url": "https://d2ol7oe51mr4n9.cloudfront.net/user_3IPl4a9NXS7mtXFYVtxGrG8aOwD/159a70e8-58b7-4daf-8588-0b2cbc95904c.mp4",
+    "action": "katana_video"
+  }
+}

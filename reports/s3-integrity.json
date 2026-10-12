@@ -1,0 +1,50 @@
+{
+  "uploaded_files": 68,
+  "verified": [
+    {
+      "key": "clients/keen-decorative-concrete/projects/driveway-katana-ad-idea-1-20261012/export/keen-katana-master-v2.mp4",
+      "sha256": "22c72415ae9794d66076e5467f6eb8007e666078f50fa68d37123416e9ffa8a4",
+      "verified_by": "streamed S3 readback"
+    },
+    {
+      "key": "clients/keen-decorative-concrete/projects/driveway-katana-ad-idea-1-20261012/export/keen-katana-preview-v2.mp4",
+      "sha256": "a820af262b052af0d563777548b00ac4c83b9a0dac3ca14b68500d2c6b1fa52e",
+      "verified_by": "streamed S3 readback"
+    },
+    {
+      "key": "clients/keen-decorative-concrete/projects/driveway-katana-ad-idea-1-20261012/grades/shot-3-v3.png",
+      "sha256": "238dc10ab5e15253dca27daa9893ff378f7f64301502d12b6844499ef4182b3a",
+      "verified_by": "streamed S3 readback"
+    },
+    {
+      "key": "clients/keen-decorative-concrete/projects/driveway-katana-ad-idea-1-20261012/grades/shot-1-v3.png",
+      "sha256": "b954d50048d39447abcdc9f0f981688b83bed9ab2f6f4e2e8bb57f93e2da2bdc",
+      "verified_by": "streamed S3 readback"
+    },
+    {
+      "key": "clients/keen-decorative-concrete/projects/driveway-katana-ad-idea-1-20261012/grades/shot-5-v3.png",
+      "sha256": "2856f937f139f5a6a55200a2408f55fe1533b67a42e71e9ee66823d8931ba173",
+      "verified_by": "streamed S3 readback"
+    },
+    {
+      "key": "clients/keen-decorative-concrete/projects/driveway-katana-ad-idea-1-20261012/grades/shot-2-v3.png",
+      "sha256": "52a63a0ac7e7f3a00b31b53a8190f18d7f6865a45e120afce53e1c73adc8c8e2",
+      "verified_by": "streamed S3 readback"
+    },
+    {
+      "key": "clients/keen-decorative-concrete/projects/driveway-katana-ad-idea-1-20261012/grades/shot-4-v3.png",
+      "sha256": "e5e0e490b6a11604ff92c0390a14ebc349f979b5b3dab90848b4dc6050290c4a",
+      "verified_by": "streamed S3 readback"
+    },
+    {
+      "key": "clients/keen-decorative-concrete/projects/driveway-katana-ad-idea-1-20261012/edit/grades/katana-v3-luna.json",
+      "sha256": "b360437d38fdb79eedbe1ad7366ee299f50b5333e7cb5c9704bd3da50e568e41",
+      "verified_by": "streamed S3 readback"
+    },
+    {
+      "key": "clients/keen-decorative-concrete/projects/driveway-katana-ad-idea-1-20261012/edit/grades/katana-v3-manifest.json",
+      "sha256": "c0bfa563be5d4d961af1f4beb12d49735a33363593b41f475704fd15252eda61",
+      "verified_by": "streamed S3 readback"
+    }
+  ]
+}

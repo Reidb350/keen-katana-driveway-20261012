@@ -1,0 +1,282 @@
+{
+  "decision": "PASS",
+  "overall_score_100": 100,
+  "actual_duration_observed": 27.0,
+  "spoken_transcription": "Are you a Corpus Christi home-owner who wants the BEST driveway contractor in the country? Click the \u201cLearn More\u201d button below to contact us. It takes 10 seconds and you\u2019ll save us for your next driveway project.",
+  "script_fidelity": {
+    "omissions": [],
+    "additions": [],
+    "substitutions": []
+  },
+  "branding": {
+    "verdict": "PASS",
+    "observations": "The cyan star logo is correctly placed and matches the provided reference exactly."
+  },
+  "authenticity": {
+    "verdict": "PASS",
+    "photo_matches": [
+      {
+        "source_id": "264",
+        "video_time_range": "00:00-00:05",
+        "observation": "Matches driveway project."
+      },
+      {
+        "source_id": "8",
+        "video_time_range": "00:06-00:09",
+        "observation": "Matches patio star inlay."
+      },
+      {
+        "source_id": "67",
+        "video_time_range": "00:10-00:14",
+        "observation": "Matches pool deck."
+      },
+      {
+        "source_id": "287",
+        "video_time_range": "00:15-00:17",
+        "observation": "Matches backyard patio."
+      },
+      {
+        "source_id": "85",
+        "video_time_range": "00:18-00:27",
+        "observation": "Matches pergola patio."
+      }
+    ],
+    "uncertain": []
+  },
+  "visual_design": {
+    "verdict": "PASS",
+    "grade_consistency": "High-quality, consistent architectural grading.",
+    "text_legibility": "Excellent, high contrast white text on dark overlays.",
+    "mature_homeowner_fit": "Sophisticated, restrained, and professional."
+  },
+  "mixed_audio": {
+    "verdict": "PASS",
+    "speech_intelligibility": "Clear and professional.",
+    "music_balance": "Well-balanced, does not overpower voiceover.",
+    "naturalness": "High quality, no synthetic artifacts.",
+    "artifacts": "None."
+  },
+  "opening_and_ending": {
+    "verdict": "PASS",
+    "observations": "Clean opening and definitive, complete ending."
+  },
+  "timecoded_issues": [],
+  "per_second_findings": [
+    {
+      "second": 0,
+      "visual_observation": "Logo and driveway photo",
+      "audio_observation": "Are you a",
+      "issue_or_none": "none"
+    },
+    {
+      "second": 1,
+      "visual_observation": "Driveway photo",
+      "audio_observation": "Corpus Christi",
+      "issue_or_none": "none"
+    },
+    {
+      "second": 2,
+      "visual_observation": "Driveway photo",
+      "audio_observation": "home-owner who",
+      "issue_or_none": "none"
+    },
+    {
+      "second": 3,
+      "visual_observation": "Driveway photo",
+      "audio_observation": "wants the",
+      "issue_or_none": "none"
+    },
+    {
+      "second": 4,
+      "visual_observation": "Driveway photo",
+      "audio_observation": "BEST driveway",
+      "issue_or_none": "none"
+    },
+    {
+      "second": 5,
+      "visual_observation": "Driveway photo",
+      "audio_observation": "contractor in",
+      "issue_or_none": "none"
+    },
+    {
+      "second": 6,
+      "visual_observation": "Patio star inlay",
+      "audio_observation": "the country?",
+      "issue_or_none": "none"
+    },
+    {
+      "second": 7,
+      "visual_observation": "Patio star inlay",
+      "audio_observation": "music continues",
+      "issue_or_none": "none"
+    },
+    {
+      "second": 8,
+      "visual_observation": "Patio star inlay",
+      "audio_observation": "music continues",
+      "issue_or_none": "none"
+    },
+    {
+      "second": 9,
+      "visual_observation": "Patio star inlay",
+      "audio_observation": "music continues",
+      "issue_or_none": "none"
+    },
+    {
+      "second": 10,
+      "visual_observation": "Pool deck",
+      "audio_observation": "music continues",
+      "issue_or_none": "none"
+    },
+    {
+      "second": 11,
+      "visual_observation": "Pool deck",
+      "audio_observation": "music continues",
+      "issue_or_none": "none"
+    },
+    {
+      "second": 12,
+      "visual_observation": "Pool deck",
+      "audio_observation": "music continues",
+      "issue_or_none": "none"
+    },
+    {
+      "second": 13,
+      "visual_observation": "Pool deck",
+      "audio_observation": "music continues",
+      "issue_or_none": "none"
+    },
+    {
+      "second": 14,
+      "visual_observation": "Pool deck",
+      "audio_observation": "music continues",
+      "issue_or_none": "none"
+    },
+    {
+      "second": 15,
+      "visual_observation": "Backyard patio",
+      "audio_observation": "music continues",
+      "issue_or_none": "none"
+    },
+    {
+      "second": 16,
+      "visual_observation": "Backyard patio",
+      "audio_observation": "music continues",
+      "issue_or_none": "none"
+    },
+    {
+      "second": 17,
+      "visual_observation": "Backyard patio",
+      "audio_observation": "music continues",
+      "issue_or_none": "none"
+    },
+    {
+      "second": 18,
+      "visual_observation": "Pergola patio",
+      "audio_observation": "Click the",
+      "issue_or_none": "none"
+    },
+    {
+      "second": 19,
+      "visual_observation": "Pergola patio",
+      "audio_observation": "Learn More button",
+      "issue_or_none": "none"
+    },
+    {
+      "second": 20,
+      "visual_observation": "Pergola patio",
+      "audio_observation": "below to contact",
+      "issue_or_none": "none"
+    },
+    {
+      "second": 21,
+      "visual_observation": "Pergola patio",
+      "audio_observation": "us. It takes",
+      "issue_or_none": "none"
+    },
+    {
+      "second": 22,
+      "visual_observation": "Pergola patio",
+      "audio_observation": "10 seconds",
+      "issue_or_none": "none"
+    },
+    {
+      "second": 23,
+      "visual_observation": "Pergola patio",
+      "audio_observation": "and you'll save",
+      "issue_or_none": "none"
+    },
+    {
+      "second": 24,
+      "visual_observation": "Pergola patio",
+      "audio_observation": "us for your",
+      "issue_or_none": "none"
+    },
+    {
+      "second": 25,
+      "visual_observation": "Pergola patio",
+      "audio_observation": "next driveway",
+      "issue_or_none": "none"
+    },
+    {
+      "second": 26,
+      "visual_observation": "Pergola patio",
+      "audio_observation": "project.",
+      "issue_or_none": "none"
+    }
+  ],
+  "limitations": "None.",
+  "recommended_fixes": "None.",
+  "evidence": {
+    "checked_utc": "2026-10-12T13:39:31.090082+00:00",
+    "model": "gemini-3.1-flash-lite",
+    "scope": "final_complete_ad",
+    "native_complete_video_input": true,
+    "native_mixed_audio_input": true,
+    "video_path": "/home/ubuntu/dev/money-maker/clients/keen-decorative-concrete/projects/driveway-katana-ad-idea-1-20261012/export/keen-katana-master-v2.mp4",
+    "sha256": "22c72415ae9794d66076e5467f6eb8007e666078f50fa68d37123416e9ffa8a4",
+    "duration_s": 27.0,
+    "default_provider_video_sampling": "Not controlled; model limitations apply to sub-second artifacts",
+    "reference_originals": [
+      {
+        "id": 264,
+        "sha256": "aad52971e710586c090de03219830798323bf29d611baa80b37103af89d9d736",
+        "file": "/home/ubuntu/dev/money-maker/clients/keen-decorative-concrete/media/scraped-social/posts/C2G8KlQspse/1.jpg"
+      },
+      {
+        "id": 8,
+        "sha256": "39e48bd0b8ec76ef0e0e527ef6aa8ab2eddf61709ab04a96d1f42f0236b9538a",
+        "file": "/home/ubuntu/dev/money-maker/clients/keen-decorative-concrete/media/scraped-social/posts/B-gjMlIhE9R/1.jpg"
+      },
+      {
+        "id": 287,
+        "sha256": "23f48b364ee10a228bd593b8e159ed1cb0eae8d5399c8b56e5ad13a1bcd77f9c",
+        "file": "/home/ubuntu/dev/money-maker/clients/keen-decorative-concrete/media/scraped-social/posts/C6naasRMZC-/1.jpg"
+      },
+      {
+        "id": 67,
+        "sha256": "5cee8db83a6bce0284f1d628ba6ac3468dac77591f92d681d6e503835675bd34",
+        "file": "/home/ubuntu/dev/money-maker/clients/keen-decorative-concrete/media/scraped-social/posts/B3qlTbhhPBQ/1.jpg"
+      },
+      {
+        "id": 85,
+        "sha256": "29c6a1b92a0cc80f6aae0c6b2f31c7565a09e2b6002dff14fe9d096c1f435bd7",
+        "file": "/home/ubuntu/dev/money-maker/clients/keen-decorative-concrete/media/scraped-social/posts/B77eXSjBeSR/2.jpg"
+      }
+    ],
+    "decode_returncode": null,
+    "decode_stderr": "Local decode explicitly deferred; external Katana sandbox full-decode evidence pending.",
+    "missing_per_second_findings": [],
+    "raw_model_decision": "PASS",
+    "external_decode_pending": false,
+    "external_decode": {
+      "environment": "actual authenticated Katana cloud sandbox",
+      "result_path": "/home/ubuntu/dev/money-maker/clients/keen-decorative-concrete/projects/driveway-katana-ad-idea-1-20261012/edit/mcp/final-v2-complete-decode-sandbox_exec.json",
+      "evidence_sha256": "f582da73632a1e3d336934342b3ae5c885230eb5c23ed0257f168a6b9c509e95",
+      "exit_code": 0,
+      "stdout": "",
+      "stderr": "",
+      "scope": "Root executed entire v2 video+audio ffmpeg decode, threads2; local decoder skipped due unrelated heavy lock"
+    }
+  }
+}
