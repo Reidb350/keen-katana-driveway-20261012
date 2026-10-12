@@ -98,6 +98,10 @@
   ],
   "reports": [
     {
+      "label": "Review PDF",
+      "url": "reports/keen-review.pdf"
+    },
+    {
       "label": "Source provenance",
       "url": "reports/source-provenance.json"
     },
